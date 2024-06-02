@@ -7,3 +7,12 @@ github:
   is_project_page: false
 
 
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "Secure AI Autonomy Lab"
+title_separator          : "-"
+name                     : &name "Dr. Paul Rad"
+description              : &description "personal description"
+url                      : https://vohongthinh2011.github.io/PeymanNajafiradTemplate1/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "vohongthinh2011/SecureAIAutonomyLabTemplate2/"  # "academicpages/academicpages.github.io"
