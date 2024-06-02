@@ -1,41 +1,8 @@
-#title: Secure AI Autonomy Lab
-#logo: /assets/img/najafirad_peyman.jpg
-#description: Hello World!
+title: Secure AI Autonomy Lab
+logo: /assets/img/najafirad_peyman.jpg
+description: Hello World!
 #show_downloads: true
-#theme: jekyll-theme-minimal
-#github:
-  #is_project_page: false
-
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Secure AI Autonomy Lab"
-title_separator          : "-"
-name                     : &name "Dr. Paul Rad"
-description              : &description "personal description"
-url                      : https://vohongthinh2011.github.io/PeymanNajafiradTemplate1/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vohongthinh2011/PeymanNajafiradTemplate1/"  # "academicpages/academicpages.github.io"
-
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "najafirad_peyman.jpg"
-  name             : "Dr. Peyman Najafirad (Dr. Paul Rad)"
-  pronouns         : # example: "he/him"  
-  bio              : "The University of Texas at San Antonio"
-  location         : "SP1 210B"
-  #employer         : "The University of Texas \n at San Antonio"
-  uri              : "https://vohongthinh2011.github.io/PeymanNajafiradTemplate1/"
-  email            : "Peyman.Najafirad@utsa.edu" 
+theme: jekyll-theme-minimal
+github:
+  is_project_page: false
 
