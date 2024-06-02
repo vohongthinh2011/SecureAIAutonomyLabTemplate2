@@ -24,3 +24,18 @@ url                      : https://vohongthinh2011.github.io/PeymanNajafiradTemp
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vohongthinh2011/PeymanNajafiradTemplate1/"  # "academicpages/academicpages.github.io"
 
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "najafirad_peyman.jpg"
+  name             : "Dr. Peyman Najafirad (Dr. Paul Rad)"
+  pronouns         : # example: "he/him"  
+  bio              : "The University of Texas at San Antonio"
+  location         : "SP1 210B"
+  #employer         : "The University of Texas \n at San Antonio"
+  uri              : "https://vohongthinh2011.github.io/PeymanNajafiradTemplate1/"
+  email            : "Peyman.Najafirad@utsa.edu" 
+
